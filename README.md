@@ -1,6 +1,6 @@
 # Github Action CI
 
-![Header](_images/gh+sb+ng.png)
+![Header](_images/gh+sb+ng.jpg)
 
 This project is intended to test several [Github Action CI workflows][ga] with a simple [SpringBoot][sb] & [Angular][ng] project generated with [JHipster][jhi].
 
