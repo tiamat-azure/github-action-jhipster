@@ -1,10 +1,18 @@
 For better User eXperience check Website : [tiamat-azure.github.io][site]
 
-# Github Action CI
+# GitHub Action CI
 
 ![Header](img/header.jpg)
 
 This project is intended to test several [Github Action CI workflows][ga] with a simple [SpringBoot][sb] & [Angular][ng] project generated with [JHipster][jhi].
+
+# Create App
+
+## Prerequisites
+
+## Create JHipster project
+
+## Add CRUD resources
 
 
 
